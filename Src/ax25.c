@@ -18,11 +18,9 @@
  */
 
 #include "ax25.h"
-// #include "log.h"
 #include <string.h>
 #include <math.h>
 
-// #include "services.h"
 #include "scrambler.h"
 
 #if DEBUG

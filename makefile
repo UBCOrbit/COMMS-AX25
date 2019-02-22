@@ -1,6 +1,6 @@
 IDIR = Inc
 CC = gcc
-CFLAGS = -I$(IDIR)
+CFLAGS = -I$(IDIR) -lm
 
 ODIR = obj
 SDIR = Src
